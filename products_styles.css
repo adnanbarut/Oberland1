@@ -1,0 +1,30 @@
+li {
+  list-style-type: none;
+  display: inline;
+  margin: 0 2vw;
+  font-size: 5vh;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding: 2vw;
+}
+
+a:hover{
+  background-color: blue;
+}
+
+nav {
+  width: 100vw;
+  background-color: turquoise;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+}
